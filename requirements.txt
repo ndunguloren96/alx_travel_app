@@ -5,3 +5,4 @@ drf-yasg
 celery
 rabbitmq
 django-environ
+psycopg2-binary
